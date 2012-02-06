@@ -5,7 +5,7 @@
               value="."
               description="The location where Twist libraries were exported" />
 	<property name="twist.project.dir"
-              value="/home/sdqali/src/work/dillards_ssl/sample_twist"
+              value="."
               description="twist project folder" />
 	<property name="scenarios.output.classes"
               value="${twist.project.dir}/bin"
